@@ -380,7 +380,10 @@ button[type="submit"] {
         margin: 0 auto;
         max-width: 50%;
     }
+}
 
-    div#map {
-        min-height: 360px;
-    }
+/*_________________________________map */
+
+div #map {
+    min-height: 360px;
+}
